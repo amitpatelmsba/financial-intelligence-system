@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+scikit-learn
+sqlalchemy
+matplotlib
+seaborn
+plotly
+yfinance
+transformers
+sentence-transformers
